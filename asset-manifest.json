@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/memory-card/static/css/main.a55a78be.css",
-    "main.js": "/memory-card/static/js/main.fa194ef0.js",
+    "main.js": "/memory-card/static/js/main.bbb5f540.js",
+    "static/media/Avatar_hohenheim.png": "/memory-card/static/media/Avatar_hohenheim.c3b18ac5a08274b5aa76.png",
+    "static/media/Avatar_winry.png": "/memory-card/static/media/Avatar_winry.781dc175e3887b458e57.png",
+    "static/media/Avatar_roy.png": "/memory-card/static/media/Avatar_roy.70e2592dfc1926e8221d.png",
+    "static/media/Avatar_edward.png": "/memory-card/static/media/Avatar_edward.fa32ba97300a6484ad48.png",
+    "static/media/Avatar_alphonse.png": "/memory-card/static/media/Avatar_alphonse.c1ecca4074180cae07ee.png",
+    "static/media/Avatar_barry.png": "/memory-card/static/media/Avatar_barry.810a58852f6c0f9c0f9f.png",
+    "static/media/Avatar_izumi.png": "/memory-card/static/media/Avatar_izumi.7e065c9deec0e209c4eb.png",
+    "static/media/Avatar_bradley.png": "/memory-card/static/media/Avatar_bradley.ffb174ee61ebc14da809.png",
+    "static/media/Avatar_ling.png": "/memory-card/static/media/Avatar_ling.a26282c013dd840fbccd.png",
+    "static/media/Avatar_may.png": "/memory-card/static/media/Avatar_may.d096c2684f0132dd193e.png",
+    "static/media/Avatar_lanfan.png": "/memory-card/static/media/Avatar_lanfan.0e89d64cd56c4016c61b.png",
+    "static/media/Avatar_fu.png": "/memory-card/static/media/Avatar_fu.8d3211ab6f76dc79b808.png",
+    "static/media/Avatar_greed.png": "/memory-card/static/media/Avatar_greed.3a089eb2526c814c655d.png",
+    "static/media/Avatar_lust.png": "/memory-card/static/media/Avatar_lust.eff131e64ac0ad0b07e9.png",
+    "static/media/Avatar_alex.png": "/memory-card/static/media/Avatar_alex.c1bd45afc85fe64afc6d.png",
+    "static/media/Avatar_scar.png": "/memory-card/static/media/Avatar_scar.21a565e11f48363b9c0e.png",
     "index.html": "/memory-card/index.html",
     "main.a55a78be.css.map": "/memory-card/static/css/main.a55a78be.css.map",
-    "main.fa194ef0.js.map": "/memory-card/static/js/main.fa194ef0.js.map"
+    "main.bbb5f540.js.map": "/memory-card/static/js/main.bbb5f540.js.map"
   },
   "entrypoints": [
     "static/css/main.a55a78be.css",
-    "static/js/main.fa194ef0.js"
+    "static/js/main.bbb5f540.js"
   ]
 }
