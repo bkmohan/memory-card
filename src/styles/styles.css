@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet');
+
+:root{
+    --amber : rgb(126, 83, 4);
+    --amber-dull : rgba(168, 130, 59, 0.8);
+    --amber-text : rgba(226, 175, 80, 0.8);
+}
+
+body{
+    background-image: linear-gradient(black, rgb(107, 23, 23), black);
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+.title-and-score{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+    color: var(--amber-text);
+}
+
+.title-and-score h1{
+    margin: 0;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.score-tag{
+    font-size: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .title-and-score{
+        flex-direction: column;
+        align-items: center;
+    }
+    .score-container{
+        display: flex;
+        gap: 1rem;
+    }
+    .score-tag {
+        font-size: 0.8rem;
+    }
+    .instruction{
+        text-align: center;
+    }
+  }
+
+.instruction{
+    color: var(--amber-text);
+}
+
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 1rem;
+}
+
+.card{
+    border: 5px solid var(--amber);
+    border-radius: 16px;
+    align-items: center;
+    background-color: var(--amber);
+    cursor: pointer;
+}
+
+.card:hover{
+    box-shadow: 0 0 16px 8px  var(--amber-dull);
+}
+
+.avatar{
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+
+.avatar-name{
+    margin: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+}

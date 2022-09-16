@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "name": "Alex Louis Armstrong",
+        "image": "/images/Avatar_alex.png",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "name": "Alphonse Elric",
+        "image": "/images/Avatar_alphonse.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Barry",
+        "image": "/images/Avatar_barry.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "King Bradley",
+        "image": "/images/Avatar_bradley.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Edward Elric",
+        "image": "/images/Avatar_edward.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Fu",
+        "image": "/images/Avatar_fu.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Greed",
+        "image": "/images/Avatar_greed.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Izumi Curtis",
+        "image": "/images/Avatar_izumi.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Van Hohenheim",
+        "image": "/images/Avatar_hohenheim.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Lan Fan",
+        "image": "/images/Avatar_lanfan.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Ling Yao",
+        "image": "/images/Avatar_ling.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Lust",
+        "image": "/images/Avatar_lust.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Mei Chang",
+        "image": "/images/Avatar_may.png",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Roy Mustang",
+        "image": "/images/Avatar_roy.png",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "Scar",
+        "image": "/images/Avatar_scar.png",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "Winry Rockbell",
+        "image": "/images/Avatar_winry.png",
+        "clicked": false
+    }
+]
