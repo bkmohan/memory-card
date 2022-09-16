@@ -1,19 +1,18 @@
 import { useEffect, useState } from "react"
-import cardData from '../data.json'
+import cardData from '../data'
 import '../styles/styles.css'
 import { shuffle } from "../utils"
 
 
-
 const Card = ({id, image, name, clicked}) => {
-
+     
     const handleClick = (event) => {
         clicked(event.currentTarget.getAttribute('data-id'))
     }
 
     return (
         <div data-id={id} className="card" onClick={handleClick}>
-            <img className="avatar" src={`${image}`} alt={name} />
+            <img className="avatar" src={image} alt={name} />
             <p className="avatar-name">{name}</p>
         </div>
     )
